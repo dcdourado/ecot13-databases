@@ -48,6 +48,9 @@ Meus parabéns, você agora pode acessar os serviços em:
 - **Oracle OEM Express**
   - https://localhost:5500/em/
 
-## Contribuição
+## Contribuição & Problemas
 
 Atualmente não é possível acessar o OEM da Oracle. Estou investigando o problema, caso queira contribuir sinta-se livre para criar um fork e realizar o pull request :)
+
+Encontrei um workaround: https://github.com/oracle/docker-images/issues/1545#issuecomment-598915245
+Créditos ao autor @gvenzl
