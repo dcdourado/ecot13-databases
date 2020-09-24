@@ -54,3 +54,8 @@ Atualmente não é possível acessar o OEM da Oracle. Estou investigando o probl
 
 Encontrei um workaround: https://github.com/oracle/docker-images/issues/1545#issuecomment-598915245
 Créditos ao autor @gvenzl
+
+Login lá:
+sys
+SENHA
+sysdba
